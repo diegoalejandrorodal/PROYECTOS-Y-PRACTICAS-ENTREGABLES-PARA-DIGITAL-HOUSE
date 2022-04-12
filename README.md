@@ -16,11 +16,9 @@
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-7-Y-8-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 7 Y 8 - CRUD Y JSON PARTE 1 Y 2<a>
 </li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-5-MIDDLEWARES"> MIDDLEWARES <a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-6-SESSION-Y-COOKIES"> COOKIES Y SESSION <a></li>
 
-
-## SESSION Y COOKIES 
-
-## PROYECTO MOVIES SEQUELIZE
+## PROYECTO MOVIES SEQUELIZE 
 
 ## API MOVIES 
 
