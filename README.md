@@ -2,7 +2,7 @@
 <img src= "digitalhouse.png">
 
 
-<a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-1-CALCULADORA-LOGICA"> CALCULADORA <a>
+<ul><li><a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-1-CALCULADORA-LOGICA"> CALCULADORA <a>
 <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-2-PARTE-1-APP-DE-NOTAS"> APP DE NOTAS 1 <a> 
 <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-2-PARTE-2-APP-DE-NOTAS"> APP DE NOTAS 2 <a> 
 <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-CONCESIONARIAS"> CONCESIONARIAS <a> 
@@ -14,7 +14,7 @@
 <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-5-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 5 - ORGANIZANDO ELEMENTOS<a>
 <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-6-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 6 - PATRONES DE DISEÑOS MVC - VISTAS DINAMICAS EJS<a>
 <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-7-Y-8-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 7 Y 8 - CRUD 1 Y 2<a>
-
+</li></ul>
 
 ## MERCADO LIEBRE 
 
