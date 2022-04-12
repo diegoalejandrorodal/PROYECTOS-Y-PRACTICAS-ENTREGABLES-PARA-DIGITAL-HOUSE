@@ -9,16 +9,14 @@
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-4-DH-HEROES"> TP HEROES <a> </li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-1-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 1 - ESTRUCTURA DE UN SITIO WEB<a></li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-2-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 2 - AGREGANDO ESTILOS <a></li>
-<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 3 - POSICIONAMIENTO AVANZADO<a></li>
-<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-4-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 4 - FORMULARIOS<a></li>
-<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-5-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 5 - ORGANIZANDO ELEMENTOS<a></li>
-<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-6-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 6 - PATRONES DE DISEÑOS MVC - VISTAS DINAMICAS EJS<a></li>
-<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-7-Y-8-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 7 Y 8 - CRUD 1 Y 2<a>
-</li></ul>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-3-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 3 - DISEÑO ADAPTATIVO <a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-4-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 4 - POSICIONAMIENTO AVANZADO FLEXBOX <a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-5-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 5 - FORMULARIOS <a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-6-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 6 - ORGANIZACION DE ELEMENTOS<a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PROYECTO-PARTE-7-Y-8-MERCADO-LIEBRE"> MERCADO LIEBRE PARTE 7 Y 8 - CRUD Y JSON PARTE 1 Y 2<a>
+</li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-5-MIDDLEWARES"> MIDDLEWARES <a></li>
 
-## MERCADO LIEBRE 
-
-## MIDDLEWARES
 
 ## SESSION Y COOKIES 
 
@@ -36,6 +34,4 @@
 
 ## DASHBOARD REACT 
 
-
-
-
+</ul>
