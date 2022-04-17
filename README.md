@@ -19,10 +19,8 @@
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-6-SESSION-Y-COOKIES"> COOKIES Y SESSION <a></li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-8-API-MOVIES"> API MOVIES <a></li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-11-MANIPULACION-DEL-DOM"> MANIPULACION DEL DOM - JS FRONT <a></li>
-
-## INTERACTUANDO CON FORMULARIOS VALIDACIONES FRONT END 
-
-## PEDIDOS ASINCRONICOS CON JAVASCRIPT
+<li> <a href= "https://github.com/diegoalejandrorodal/PRACTICA-12-INTERACTUANDO-CON-FORMULARIOS-"> INTERACTUANDO CON FORMULARIOS VALIDACIONES FRONT END <a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/PRACTICA-13-PEDIDOS-ASINCRONICOS"> PEDIDOS ASINCRONICOS CON JAVASCRIPT <a></li>
 
 ## CREANDO UNA APLICACION CON CREATE-REACT-APP USO DE LA API GIPHY 
 
