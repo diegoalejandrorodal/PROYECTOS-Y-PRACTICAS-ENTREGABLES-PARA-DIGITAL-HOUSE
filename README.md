@@ -17,10 +17,7 @@
 </li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-5-MIDDLEWARES"> MIDDLEWARES <a></li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-6-SESSION-Y-COOKIES"> COOKIES Y SESSION <a></li>
-
-## PROYECTO MOVIES SEQUELIZE 
-
-## API MOVIES 
+<li> <a href= "https://github.com/diegoalejandrorodal/PROYECTO-API-MOVIES"> API MOVIES <a></li>
 
 ## MANIPULACION DEL DOM 
 
