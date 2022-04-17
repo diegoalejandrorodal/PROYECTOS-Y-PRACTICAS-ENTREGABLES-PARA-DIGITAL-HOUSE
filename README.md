@@ -17,9 +17,8 @@
 </li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-5-MIDDLEWARES"> MIDDLEWARES <a></li>
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-6-SESSION-Y-COOKIES"> COOKIES Y SESSION <a></li>
-<li> <a href= "https://github.com/diegoalejandrorodal/PROYECTO-API-MOVIES"> API MOVIES <a></li>
-
-## MANIPULACION DEL DOM 
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-8-API-MOVIES"> API MOVIES <a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-11-MANIPULACION-DEL-DOM"> MANIPULACION DEL DOM - JS FRONT <a></li>
 
 ## INTERACTUANDO CON FORMULARIOS VALIDACIONES FRONT END 
 
