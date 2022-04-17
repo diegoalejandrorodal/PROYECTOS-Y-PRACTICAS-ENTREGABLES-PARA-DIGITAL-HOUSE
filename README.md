@@ -21,9 +21,6 @@
 <li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-11-MANIPULACION-DEL-DOM"> MANIPULACION DEL DOM - JS FRONT <a></li>
 <li> <a href= "https://github.com/diegoalejandrorodal/PRACTICA-12-INTERACTUANDO-CON-FORMULARIOS-"> INTERACTUANDO CON FORMULARIOS VALIDACIONES FRONT END <a></li>
 <li> <a href= "https://github.com/diegoalejandrorodal/PRACTICA-13-PEDIDOS-ASINCRONICOS"> PEDIDOS ASINCRONICOS CON JAVASCRIPT <a></li>
-
-## CREANDO UNA APLICACION CON CREATE-REACT-APP USO DE LA API GIPHY 
-
-## DASHBOARD REACT 
-
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-14-CREANDO-UNA-APP-CON-REACT"> CREANDO UNA APLICACION CON CREATE-REACT-APP USO DE LA API GIPHY  <a></li>
+<li> <a href= "https://github.com/diegoalejandrorodal/FORMAR-PRACTICA-15-DASHBOARD-REACTS"> DASHBOARD REACT <a></li>
 </ul>
